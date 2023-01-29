@@ -1,0 +1,17 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "terminal"
+
+[languages.en.menu]
+	[[languages.en.menu.main]]
+		identifier = "posts"
+		name = "Posts"
+		url = "/posts"
+		weight = 1
+
+	[[languages.en.menu.main]]
+		identifier = "other_folder"
+		name = "Other folder"
+		url = "/other/"
+		weight = 2
