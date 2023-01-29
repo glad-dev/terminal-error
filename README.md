@@ -1,0 +1,1 @@
+This repository is a minimal working example of the bug described [here](https://github.com/panr/hugo-theme-terminal/issues/425).
